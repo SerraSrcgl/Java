@@ -7,7 +7,7 @@ public class getSquare {
             System.out.println(Math.sqrt(i));
 
         }
-        double []numArray={1.4,5.1,7.0,3.2,73.32,9.90} ;
+        double []numArray={1.4,5.1,7.0,3.2,9.90} ;
     double largest=numArray[0];
     for(double num:numArray){
         if(largest<num)
